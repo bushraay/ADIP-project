@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Motivation}{2}{section.2}%
+\contentsline {section}{\numberline {3}Novel Idea}{3}{section.3}%
+\contentsline {section}{\numberline {4}Mathematical Model}{3}{section.4}%
+\contentsline {section}{\numberline {5}Relevance in Local Context}{6}{section.5}%
+\contentsline {section}{\numberline {6}Project Plan}{7}{section.6}%
+\contentsline {section}{\numberline {7}Team Distribution}{7}{section.7}%
